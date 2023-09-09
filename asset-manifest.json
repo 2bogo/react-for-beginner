@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/react-for-beginners/static/js/main.ecd10ccb.js",
+    "index.html": "/react-for-beginners/index.html",
+    "main.ecd10ccb.js.map": "/react-for-beginners/static/js/main.ecd10ccb.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.ecd10ccb.js"
+  ]
+}
